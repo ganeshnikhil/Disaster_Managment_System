@@ -1,0 +1,27 @@
+{   
+    "current_date":"2025-01-28",
+    "weather": {
+    
+    },
+    "air_quality": {
+
+    },
+    "today_disaster": {
+
+    },
+    "disaster_history": {
+
+    },
+    "contact_information": {
+        "emergency_numbers": {
+            "Police": "100",
+            "Fire Department": "101",
+            "Ambulance": "102"
+        },
+        "websites": {
+            "Local Police": "http://bangalorepolice.gov",
+            "Red Cross": "http://redcross.org",
+            "Club": "http://daneclub.org"
+        }
+    }
+}

@@ -79,6 +79,7 @@
 1. **Auto-Adjust Report Height** → Avoid hardcoded height using JavaScript.
 2. **Expand Voice Support** → Add **multilingual TTS/STT** (e.g., Google TTS).
 3. **UI Refinements** → Add **language selection in UI**.
+4. **Models** → Add **Use multiple agent model capabilities to do tasks , function calling , informatino retrival and extra.**.
 
 ---
 
